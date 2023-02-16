@@ -8,3 +8,5 @@ Seems like the commit didn't work at all after using git push origin
 master
 
 This time it worked I skiped a few steps and forgot to commit file
+
+The functionality seems to be working.
