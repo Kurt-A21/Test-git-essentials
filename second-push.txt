@@ -1,1 +1,10 @@
+
 This is my second push
+
+I will be showing you how to commit a file to github and  push the 
+same file to the origin master.
+
+Seems like the commit didn't work at all after using git push origin
+master
+
+
