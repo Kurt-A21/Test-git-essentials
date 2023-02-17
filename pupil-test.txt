@@ -1,1 +1,4 @@
 This is file to see whether i have switched branches from master to pupil.
+
+Current file was merged with master branch. See changes in Git hub.
+
