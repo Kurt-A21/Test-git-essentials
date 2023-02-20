@@ -1,3 +1,3 @@
-# Test-git-essentials
+# Git essentials training
 
-This repository is a test folder to see how git work.
+## This is a test repo, to test and see what the different git commands can do.
