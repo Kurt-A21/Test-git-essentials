@@ -1,5 +1,5 @@
 # Test-git-essentials
 
-## About repo
-This is test repo used to practice git.
-see repo
+## Someting new for this repo 
+Functionality got updated
+
